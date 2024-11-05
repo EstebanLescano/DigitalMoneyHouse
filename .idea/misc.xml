@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/payment/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/wallet/pom.xml" />
+        <option value="$PROJECT_DIR$/transaction/pom.xml" />
       </list>
     </option>
   </component>
